@@ -1,4 +1,4 @@
-> ## 🛠 Status: Pilot Phase
+> ## 🛠 Status: Pilot Phase!!!!
 >
 > Lion Web Components are still in an early alpha stage; they should not be considered production ready yet.
 >
